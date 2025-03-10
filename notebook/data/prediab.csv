@@ -1,501 +1,166 @@
 Prediabetes Status,Age,Gender,BMI,Waist Circumference (cm),Physical Activity Level,Frequent Urination,Increased Thirst,Increased Hunger,Excessive Weight Loss (Past 6 Months),Blurred Vision (Recent),Fatigue,Slow Healing Wounds (Past 3 Months),Dry Mouth,Tingling/Numbness in Hands/Feet,Frequent Skin Infections (Past Year),Darkening Skin Folds (In Armpits/Neck),Difficulty Concentrating,Irritability,Erectile Dysfunction (Male) / Irregular Periods (Female),Delayed Wound Healing (After Minor Injury),Poor Night Sleep,Increased Belly Fat
-0,48.0,Female,24.5,88.0,Moderate,No,No,No,No,No,Occasionally,No,No,No,No,No,No,No,No,No,No,Yes
-1,51.0,Male,30.2,102.0,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,39.0,Female,22.1,82.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
-1,58.0,Male,28.7,98.0,Sedentary,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,,Yes,Yes
-0,42.0,Female,25.4,87.0,Moderate,No,No,Occasionally,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
-1,63.0,Male,32.1,105.0,Sedentary,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,,Yes,Yes
-0,35.0,Female,21.8,78.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
-1,50.0,Male,27.5,93.0,Sedentary,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,45.0,Female,24.2,85.0,Moderate,Occasionally,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
-1,56.0,Male,27.8,95.0,Sedentary,Yes,Yes,Occasionally,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,,Yes,No
-0,38.0,Female,20.5,75.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
-1,41.0,Female,34.2,77.0,Moderate,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,,Yes,No,No
-0,54.0,Male,24.8,94.0,Sedentary,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,,Yes,Yes,Yes
-1,44.0,Female,29.8,99.0,Moderate,Yes,No,Yes,No,Sometimes,Yes,No,Yes,No,No,No,Yes,Yes,,Yes,Yes,Yes
-1,60.0,Male,26.3,89.0,Active,No,No,No,No,No,Occasionally,No,No,No,No,No,No,No,No,No,Yes,Yes
-1,37.0,Female,23.4,85.0,Sedentary,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,,Yes,Yes,Yes
-1,52.0,Male,28.1,92.0,Moderate,No,No,Occasionally,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
-1,47.0,Female,31.5,108.0,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,,Yes,Yes
-1,33.0,Male,22.7,80.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
-1,59.0,Female,35.1,115.0,Sedentary,Yes,Yes,Yes,Yes,Occasionally,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,,Yes,Yes,Yes
-1,40.0,Male,25.9,86.0,Moderate,No,No,No,No,No,Occasionally,No,No,No,No,No,No,Yes,No,No,No,Yes
-1,49.0,Female,30.4,103.0,Sedentary,Yes,Yes,Occasionally,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,,Yes,Yes
-1,36.0,Male,21.2,77.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
-1,22.0,Male,17.8,70.0,Very Active,No,No,Yes,No,No,Occasionally,No,No,No,No,No,No,Yes,No,,No,No
-0,70.0,Female,23.1,84.0,Light Activity,No,No,No,No,No,Yes,No,Sometimes,No,No,No,Yes,No,Yes,No,Yes,Yes
-1,65.0,Male,38.5,120.0,Inactive,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,,Yes,Yes,Yes
-0,30.0,Female,19.5,72.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Occasionally,Yes
-1,43.0,Male,28.9,97.0,Moderate,Yes,Yes,Occasionally,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,,Yes,Yes,Yes
-0,55.0,Female,31.2,101.0,Light Activity,No,No,No,No,No,Occasionally,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes
-1,28.0,Male,21.1,78.0,Very Active,No,No,Occasionally,Yes,No,No,No,No,No,No,No,No,Yes,Yes,,No,Occasionally
-0,68.0,Female,20.8,80.0,Light Activity,No,No,No,No,No,Yes,Occasionally,Sometimes,No,No,No,Yes,No,Yes,No,Yes,Yes
-1,32.0,Male,33.7,107.0,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,,Yes,Yes,Yes
-0,57.0,Female,24.1,89.0,Moderate,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes
-0,49.0,Female,28.5,96.0,Moderate,Occasionally,No,No,No,No,Occasionally,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-1,62.0,Male,32.8,108.0,Sedentary,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,46.0,Female,28.4,94.0,Moderate,No,Yes,Occasionally,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes
-1,53.0,Male,35.1,112.0,Inactive,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,29.0,Female,24.7,82.0,Active,No,No,No,No,No,Occasionally,No,No,No,No,No,No,No,Yes,No,No,Yes
-1,71.0,Male,29.5,100.0,Light Activity,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,34.0,Female,21.2,74.0,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,66.0,Male,27.9,95.0,Moderate,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,25.0,Female,22.5,78.0,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,74.0,Male,34.7,115.0,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-0,27.0,Female,23.1,80.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,61.0,Male,37.2,118.0,Sedentary,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,49.0,Female,30.8,99.0,Moderate,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-0,31.0,Female,23.8,81.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,64.0,Male,33.5,110.0,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-0,23.0,Female,20.7,70.0,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,75.0,Male,30.1,102.0,Light Activity,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,52.0,Female,26.4,90.0,Moderate,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
-1,38.0,Male,28.9,96.0,Active,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-0,67.0,Female,27.2,93.0,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-1,45.0,Male,36.7,114.0,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,26.0,Female,22.1,76.0,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,72.0,Male,31.9,106.0,Light Activity,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,41.0,Female,24.6,84.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,58.0,Male,34.2,111.0,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,20.0,Female,19.8,68.0,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,77.0,Male,37.5,119.0,Inactive,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-0,36.0,Female,26.2,89.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-1,63.0,Male,30.8,103.0,Sedentary,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,24.0,Female,22.7,77.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,69.0,Male,35.1,113.0,Light Activity,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,43.0,Female,28.5,96.0,Moderate,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-1,55.0,Male,31.7,105.0,Sedentary,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,19.0,Female,18.9,65.0,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,81.0,Male,32.6,109.0,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-0,28.0,Female,21.8,75.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,76.0,Male,37.2,117.0,Inactive,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-0,33.0,Female,25.3,86.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
-1,50.0,Male,29.8,98.0,Moderate,No,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-0,60.0,Female,31.4,102.0,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes
-1,42.0,Male,26.3,89.0,Active,No,No,Occasionally,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
-0,21.0,Female,19.5,67.0,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,79.0,Male,34.2,112.0,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-0,47.0,Female,29.1,97.0,Moderate,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-1,35.0,Male,25.7,86.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,65.0,Female,27.8,95.0,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-1,54.0,Male,32.9,107.0,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,17.0,Female,18.2,63.0,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,83.0,Male,30.4,101.0,Inactive,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,40.0,Female,26.7,91.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
-1,48.0,Male,27.5,90.0,Moderate,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
-0,56.0,Female,30.2,99.0,Light Activity,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes
-1,31.0,Male,23.1,81.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,39.0,Female,24.5,83.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,70.0,Male,33.7,110.0,Light Activity,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,16.0,Female,17.8,62.0,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,85.0,Male,31.2,104.0,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-0,44.0,Female,27.6,94.0,Moderate,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-1,30.0,Male,21.9,79.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,73.0,Female,25.7,92.0,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-1,59.0,Male,30.1,100.0,Sedentary,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,18.0,Female,19.3,66.0,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,80.0,Male,29.5,99.0,Inactive,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,37.0,Female,23.8,80.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,Occasionally,Yes,No,No,No
-1,46.0,Male,26.7,88.0,Moderate,No,No,Occasionally,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
-0,68.0,Female,32.1,104.0,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-1,51.0,Male,28.6,94.0,Sedentary,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,15.0,Female,17.2,60.0,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,87.0,Male,33.5,108.0,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-0,32.0,Female,22.4,77.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,57.0,Male,31.3,102.0,Sedentary,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,21.0,Female,19.5,67.0,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,79.0,Male,34.2,112.0,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-0,47.0,Female,29.1,97.0,Moderate,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-1,35.0,Male,25.7,86.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,65.0,Female,27.8,95.0,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-1,54.0,Male,32.9,107.0,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,17.0,Female,18.2,63.0,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,83.0,Male,30.4,101.0,Inactive,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,40.0,Female,26.7,91.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
-1,48.0,Male,27.5,90.0,Moderate,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
-0,56.0,Female,30.2,99.0,Light Activity,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes
-1,31.0,Male,23.1,81.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,39.0,Female,24.5,83.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,70.0,Male,33.7,110.0,Light Activity,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,16.0,Female,17.8,62.0,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,85.0,Male,31.2,104.0,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-0,44.0,Female,27.6,94.0,Moderate,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-1,30.0,Male,21.9,79.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,73.0,Female,25.7,92.0,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-1,59.0,Male,30.1,100.0,Sedentary,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,18.0,Female,19.3,66.0,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,80.0,Male,29.5,99.0,Inactive,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,37.0,Female,23.8,80.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,Occasionally,Yes,No,No,No
-1,46.0,Male,26.7,88.0,Moderate,No,No,Occasionally,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
-0,68.0,Female,32.1,104.0,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-1,51.0,Male,28.6,94.0,Sedentary,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,15.0,Female,17.2,60.0,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,87.0,Male,33.5,108.0,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-0,32.0,Female,22.4,77.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,57.0,Male,31.3,102.0,Sedentary,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,48.0,Female,28.4,94.0,Moderate,No,Yes,Occasionally,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes
-0,62.0,Male,32.8,108.0,Sedentary,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,29.0,Female,24.7,82.0,Active,No,No,No,No,No,Occasionally,No,No,No,No,No,No,No,Yes,No,No,Yes
-1,53.0,Male,35.1,112.0,Inactive,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,71.0,Male,29.5,100.0,Light Activity,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,34.0,Female,21.2,74.0,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,66.0,Male,27.9,95.0,Moderate,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,25.0,Female,22.5,78.0,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,74.0,Female,34.7,115.0,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-0,27.0,Female,23.1,80.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,61.0,Male,37.2,118.0,Sedentary,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,49.0,Female,30.8,99.0,Moderate,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-0,31.0,Female,23.8,81.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,64.0,Male,33.5,110.0,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-0,23.0,Female,20.7,70.0,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,75.0,Male,30.1,102.0,Light Activity,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,52.0,Female,26.4,90.0,Moderate,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
-1,38.0,Male,28.9,96.0,Active,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-0,67.0,Female,27.2,93.0,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-1,45.0,Male,36.7,114.0,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,26.0,Female,22.1,76.0,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,72.0,Male,31.9,106.0,Light Activity,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,41.0,Female,24.6,84.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,58.0,Male,34.2,111.0,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,20.0,Female,19.8,68.0,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,77.0,Male,37.5,119.0,Inactive,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-1,36.0,Female,26.2,89.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-1,63.0,Male,30.8,103.0,Sedentary,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,24.0,Female,22.7,77.0,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,69.0,Male,35.1,113.0,Light Activity,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,43.0,Female,28.5,96.0,Moderate,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-0,32.37741079988545,Female,21.947099453526135,77.27905795963225,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,71.78151537084274,Female,25.954658174610643,92.72680648778176,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-1,60.00960914728347,Male,26.46042400889305,88.54382532598243,Active,No,No,No,No,No,Occasionally,No,No,No,No,No,No,No,No,No,Yes,Yes
-0,47.34671030299687,Female,28.83579388395604,97.14965300815135,Moderate,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-1,49.72153356893008,Male,29.950636915490378,98.31520334934409,Moderate,No,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-1,39.11260672489288,Male,25.841375279072107,84.64634767776417,Moderate,No,No,No,No,No,Occasionally,No,No,No,No,No,No,Yes,No,No,No,Yes
-0,33.33235734840671,Female,22.580101082864015,76.26455319492545,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,30.291152772641496,Male,22.068229616800163,80.44377567100094,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,20.93226728195531,Female,19.602666475653976,67.02132475230205,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,69.45492646106818,Male,33.59423454634885,109.6931912563815,Light Activity,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,38.05652294776519,Female,24.695126928088598,82.89259848797533,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,50.62027482288833,Male,28.49720468385688,93.76842366364629,Sedentary,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,55.98993708398775,Male,31.735665806016133,103.02082130257278,Sedentary,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,38.51790273610383,Male,28.92269867051118,96.05421466627617,Active,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-0,15.0,Female,17.2,60.0,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,74.68505265857311,Male,30.24521403918093,101.71610947311241,Light Activity,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,67.77024460567922,Female,26.915998213738426,92.73050839489001,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-1,50.50178653471679,Male,30.033964384177303,101.86446965351347,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,70.8725384299054,Male,33.600707490693935,111.12331585162418,Light Activity,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,59.31227233749876,Male,34.32576077043911,110.98869951482372,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,28.268424625745585,Female,25.058407988326124,82.00159353599614,Active,No,No,No,No,No,Occasionally,No,No,No,No,No,No,No,Yes,No,No,Yes
-1,51.526407107260894,Male,28.24526445534072,92.97477145505839,Sedentary,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,40.68946961168903,Male,26.37401090442549,86.04419169740379,Moderate,No,No,No,No,No,Occasionally,No,No,No,No,No,No,Yes,No,No,No,Yes
-1,35.3646026912478,Female,26.105977557713615,87.89386445454369,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-1,57.410733010104565,Male,34.17139625099566,112.39890443352945,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,49.58545022129495,Female,30.368571229717894,104.11888268754966,Sedentary,Yes,Yes,Occasionally,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,,Yes,Yes
-0,17.942207455184942,Female,18.016113852773866,61.3234213337228,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,21.187013897255188,Female,20.87835145199357,69.25522849195767,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,20.460565473804404,Female,19.899839321173786,67.63902650224209,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,61.22599479809266,Male,26.219684511988472,89.95552609272458,Active,No,No,No,No,No,Occasionally,No,No,No,No,No,No,No,No,No,Yes,Yes
-0,51.47413230202968,Female,26.439903905307773,90.44015857796441,Moderate,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
-1,36.74498612547686,Male,25.768290489106043,86.32529134981625,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,26.04718734973341,Female,21.982682530547205,76.54547661458247,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,68.64239772318848,Male,34.955332326021804,112.6314997144221,Light Activity,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,15.418299510134538,Female,17.2,60.0,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,51.348570570952965,Female,26.675801857386183,88.77085730137806,Moderate,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
-1,46.60130313591964,Female,28.555876051345482,95.84059743560562,Moderate,No,Yes,Occasionally,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes
-1,40.79659392251536,Male,25.964429145960036,85.55667258537537,Moderate,No,No,No,No,No,Occasionally,No,No,No,No,No,No,Yes,No,No,No,Yes
-0,57.99978435105404,Female,31.460885723594977,102.41142474552439,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes
-1,46.92599787320148,Female,31.67192155982942,107.61630771265055,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,,Yes,Yes
-1,87.0,Male,33.90540376731966,108.12474701423426,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-0,16.400284701145885,Female,17.9841067572533,61.92185888359069,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,76.571348249479,Male,37.51781170043648,118.8719180879041,Inactive,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-1,43.63493952343255,Female,29.507203096827098,98.9012921468963,Moderate,Yes,No,Yes,No,Sometimes,Yes,No,Yes,No,No,No,Yes,Yes,,Yes,Yes,Yes
-0,45.692903093431084,Female,24.318364460040844,85.20105322208798,Moderate,Occasionally,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
-1,85.38839785669579,Male,31.59113533598213,104.03814056844001,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-0,65.10591150713162,Female,27.589632426318712,93.13312395784239,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-1,52.3031267872463,Male,28.31078038520917,93.69688524462721,Sedentary,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,48.45675901793004,Male,27.430437721915382,90.02039025235646,Moderate,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
-1,30.83861920409588,Male,21.94675564705902,77.62761218237986,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,16.335450298377374,Female,18.213140389414086,61.981740141993136,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,50.5680308180373,Male,27.690969544602495,93.26472047592405,Sedentary,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,62.30504957573945,Male,32.91267794113279,109.20378711154848,Sedentary,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,18.022204614825526,Female,18.39213982617481,63.62164390713054,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,67.54742454813855,Male,34.83860023178857,113.04536988266153,Light Activity,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,73.53310866110715,Male,30.34694313579512,102.41006344630557,Light Activity,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,57.2185768555586,Male,31.351593610796584,100.87398444984177,Sedentary,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,87.0,Male,33.29335485316911,108.4095961832741,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-1,50.86429460544041,Male,30.040812444681467,102.9585669452262,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,57.24912838729781,Male,31.47802849129674,101.78669301020267,Sedentary,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,43.58191863216281,Male,36.957460742880336,112.38785206616934,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,78.64331821413712,Male,34.21497662180204,112.1101037774939,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-1,57.558948441655595,Male,28.446999814261506,96.62811768054888,Sedentary,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,,Yes,Yes
-1,45.61911138433954,Male,37.203086490760334,114.66331475874286,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,50.233639300600636,Female,30.513162169979225,99.08561144368859,Moderate,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-0,26.84479519220724,Female,23.56899111270596,79.07486889005197,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,62.74111776514631,Male,30.677668404252323,103.07435057853455,Sedentary,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,45.06828362910644,Female,29.92260977673863,98.7468389620367,Moderate,Yes,No,Yes,No,Sometimes,Yes,No,Yes,No,No,No,Yes,Yes,,Yes,Yes,Yes
-0,18.512062001591037,Female,19.104590644572372,65.8534736315257,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,65.24346142865346,Male,33.56297746084158,108.59655339932263,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-1,59.76494123940264,Male,26.22491906536437,89.52221527000464,Active,No,No,No,No,No,Occasionally,No,No,No,No,No,No,No,No,No,Yes,Yes
-0,34.65138832547975,Female,21.863887397500488,74.381382567913,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,82.48121853655478,Male,30.216236751876476,100.47643843860025,Inactive,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,18.017672672379486,Female,18.352804862720916,62.904324416429624,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,68.10586415822998,Female,27.170057114445417,93.20988064420382,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-1,21.184357146650378,Male,18.14043233955909,70.4213487933524,Very Active,No,No,Yes,No,No,Occasionally,No,No,No,No,No,No,Yes,No,,No,No
-1,45.3474822336219,Male,37.33191707359257,112.75115104249682,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,58.67525072379992,Male,29.446032824225885,100.38961649130694,Sedentary,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,68.12378137898865,Male,27.860146402911813,94.70343040474035,Moderate,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,41.48982757068845,Female,24.531325967992718,84.72166709229073,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,59.14356784651346,Male,26.080960204689703,87.94393358392756,Active,No,No,No,No,No,Occasionally,No,No,No,No,No,No,No,No,No,Yes,Yes
-1,61.825086144533024,Male,37.47099521296861,118.40801149570405,Sedentary,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,42.58420323627723,Female,28.40730221924499,95.22660571086269,Moderate,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-0,18.675009555614892,Female,17.89557130580622,60.883190930301275,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,33.247902055822806,Female,25.17159501731541,86.50496390613043,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
-0,44.944743508684844,Female,24.514174659781492,84.53301407642802,Moderate,Occasionally,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
-1,67.86329874263002,Male,33.75987202780035,110.00798605299653,Light Activity,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,67.97869428581495,Female,32.373187297516054,104.28084610154717,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-0,61.66843534832078,Male,32.44024367941048,108.36161371462656,Sedentary,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,24.721362894797917,Female,22.57293123780806,76.77063708364679,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,70.33759805971809,Male,29.449524004464184,100.05147607008026,Light Activity,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,18.278431734824018,Female,17.949376513676587,64.75686637392695,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,61.598655036353726,Male,32.947241122379275,108.99074987263428,Sedentary,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,24.1627042639219,Female,22.769231376563166,76.89920617012802,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,23.467286744318013,Female,22.48231786089447,76.27678104305707,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,55.94346345111771,Female,24.403541002770908,88.4553949070755,Moderate,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes
-0,73.03805345531894,Female,25.726642867856075,92.2559684050783,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-0,42.1367859828463,Female,25.647418193946685,87.16798689874327,Moderate,No,No,Occasionally,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
-1,65.54245514273774,Male,27.69753991925537,95.14806222509822,Moderate,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,42.33774685588956,Male,28.78109064814407,97.63499293350698,Moderate,Yes,Yes,Occasionally,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,,Yes,Yes,Yes
-1,49.092174462936725,Female,28.197384769894878,94.42650169997734,Moderate,No,Yes,Occasionally,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes
-1,51.96746829632235,Male,29.59401837072537,97.17700825706808,Moderate,No,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-1,41.78498362833244,Female,33.44594658040927,76.15673136475112,Moderate,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,,Yes,No,No
-1,64.42885247467606,Male,30.91052851248868,103.28793745252499,Sedentary,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,57.81759953041964,Female,24.429533539013605,89.39634141178593,Moderate,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes
-1,63.918715955699824,Male,33.58766822335691,109.8076719290301,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-1,52.318240427939756,Female,26.196040969904086,91.01981642778094,Moderate,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
-1,63.39633706444211,Male,30.54681012681132,103.53964978593706,Sedentary,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,53.36665499067809,Male,35.18082526135067,112.61166523812248,Inactive,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,67.77375660746401,Female,31.73606198846973,102.86276465994189,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-1,56.79150155371268,Male,30.939931741609897,102.48268484675322,Sedentary,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,61.917920933402534,Male,32.39170479569278,106.80074572730526,Sedentary,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,15.531890362238943,Female,17.51899768034699,60.549683198757776,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,16.08858898135952,Female,17.2,60.438882885567374,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,48.307906850606194,Female,24.451802247791992,88.57160467470477,Moderate,No,No,No,No,No,Occasionally,No,No,No,No,No,No,No,No,No,No,Yes
-0,42.21198196813802,Female,25.31701801289909,87.52698486599671,Moderate,No,No,Occasionally,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
-0,24.17536436165109,Female,22.445561385900323,78.19897662424408,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,32.952553665207965,Female,23.025158712677808,77.58951165766675,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,29.909401219970103,Female,19.415790768100837,71.79340019500377,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Occasionally,Yes
-1,30.237499698564097,Female,24.691053674787412,82.38702018584351,Active,No,No,No,No,No,Occasionally,No,No,No,No,No,No,No,Yes,No,No,Yes
-1,59.712725245997085,Male,26.483019146702052,88.55045731385295,Active,No,No,No,No,No,Occasionally,No,No,No,No,No,No,No,No,No,Yes,Yes
-1,84.42926766469888,Male,31.077906934072832,105.50548909485335,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-0,25.73223581694849,Female,22.62582289767455,76.82966016703908,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,57.200308967484716,Male,29.681892537775973,100.27143612174658,Sedentary,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,24.86041283696244,Female,22.48679405847803,77.09570507686252,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,80.21528944932375,Male,29.79301221103183,99.76292543753378,Inactive,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,37.1618669028046,Male,28.754664040103577,95.8770231731209,Active,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-1,78.6692831327653,Male,29.641396903328587,98.9369737866818,Inactive,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,87.0,Male,33.25999304460226,109.9570929599771,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-1,51.87635193309565,Female,26.144808232503358,89.66053263826083,Moderate,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
-1,73.92021643383221,Female,34.583499653284065,116.25453373728136,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-0,57.29376231971262,Female,31.29235698016379,100.48293905742716,Light Activity,No,No,No,No,No,Occasionally,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes
-0,43.87420163848426,Female,28.344909029840576,93.43898578774903,Moderate,No,Yes,Occasionally,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes
-0,53.21223574544322,Male,24.994092826544986,93.71089578732133,Sedentary,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,,Yes,Yes,Yes
-1,76.22848620701268,Male,37.473093643889314,118.08162006481675,Inactive,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-0,33.18505517824623,Female,25.577711343118676,86.07827831548383,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
-1,31.453760461570536,Male,22.786804979388,81.42862191170097,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,42.604570370325476,Male,28.680959358025348,96.77068664941054,Moderate,Yes,Yes,Occasionally,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,,Yes,Yes,Yes
-1,55.66827346597781,Male,31.63324760558414,105.08638111846122,Sedentary,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,61.04923939955179,Male,36.9656291358118,117.24818399731038,Sedentary,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,63.21268765965645,Male,31.03039638358421,103.27271662745073,Sedentary,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,58.33185772143909,Male,31.15334717164345,102.78617016877,Sedentary,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,42.88773414055202,Male,28.781662239384776,97.55543693568457,Moderate,Yes,Yes,Occasionally,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,,Yes,Yes,Yes
-1,43.138633471253534,Male,28.828318655926388,95.98601041519854,Moderate,Yes,Yes,Occasionally,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,,Yes,Yes,Yes
-1,35.58184377880442,Male,26.473304707239134,86.63892806364737,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,27.71768736880885,Female,22.837997474971814,81.37275183034427,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,46.8282387628347,Male,27.56352847576223,90.54116998872254,Moderate,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
-1,25.34111104058339,Male,20.75024252182867,78.60832031271889,Very Active,No,No,Occasionally,Yes,No,No,No,No,No,No,No,No,Yes,Yes,,No,Occasionally
-0,21.44240303883462,Female,19.454603016534428,68.7762016303273,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,46.75807085385992,Male,26.456179000148612,87.88070869691884,Moderate,No,No,Occasionally,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
-1,28.721432350373355,Male,21.83229965632762,78.69223092467054,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,68.06189037236253,Female,32.014397880020674,104.74624799830953,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-0,43.35307550627367,Female,27.58824477792964,94.41955791100435,Moderate,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-0,30.343898184628532,Female,19.606284647738306,71.95941605363777,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Occasionally,Yes
-0,43.594971602477614,Female,27.781521670834458,93.43925048629262,Moderate,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-1,30.497782312548452,Male,23.1885754670044,81.29398323359909,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,39.15738468602539,Female,22.477110601393186,82.54738834859772,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
-0,32.052850226223335,Female,22.62540192903884,77.79826674462159,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,25.929993021405377,Female,22.079341683377617,75.98929406882206,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,28.35505075325711,Female,24.625368708568832,82.0112542636581,Active,No,No,No,No,No,Occasionally,No,No,No,No,No,No,No,Yes,No,No,Yes
-1,63.444251317203054,Male,30.937853382849994,103.07431818168929,Sedentary,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,43.53693718373117,Female,27.705400044543296,95.61689425030352,Moderate,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-0,52.615095574526734,Female,26.2767724205456,89.83871708589906,Moderate,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
-1,38.31042535077109,Male,28.83135815361565,95.13838487052531,Active,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-0,21.216646182178735,Female,19.401716282051055,67.91127269057091,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,70.21907918344645,Male,33.55061215693523,110.53563156388643,Light Activity,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,78.90322908178156,Male,37.55959585794784,118.48384972405555,Inactive,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-1,80.40118856528066,Male,29.272246553905518,100.12213552605519,Inactive,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,38.54605097832742,Female,26.76111624336626,90.60602894354214,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
-1,63.267028572702564,Male,31.068003132967284,103.20498906068916,Sedentary,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,37.846724022975614,Male,28.46543558760011,95.6313900908312,Active,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-1,40.72492536950359,Female,34.36738728236238,77.07683634681526,Moderate,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,,Yes,No,No
-1,71.06355006689896,Male,29.166063708787473,100.43928631171055,Light Activity,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,50.8983056188291,Male,28.54830086772102,93.8601369303766,Sedentary,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,15.0,Female,17.2,61.22876609959564,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,39.00135873631681,Female,26.90529682664664,90.74782241764157,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
-0,15.0,Female,17.436507113968656,60.26157952232999,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,39.46095132140983,Female,26.951782790085943,90.31825146832708,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
-0,16.771337011603997,Female,18.102268196463903,62.62343076445924,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,41.00971566625685,Female,26.42028693152337,90.82493737539747,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
-1,50.75649962004923,Male,30.577991174142486,101.3633531923601,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,50.00224111678428,Male,28.679319981220715,93.33599714789112,Sedentary,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,44.696460311644046,Male,36.799922703911825,112.98031879774696,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,38.32958199661571,Female,24.379350916630504,82.9284222467038,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,67.447281604616,Female,32.0180989484572,103.72356786869929,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-0,30.733938007655095,Female,23.826410862649578,80.99793816915613,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,78.11738457304644,Male,29.447735584329326,98.80200815647135,Inactive,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,51.23197012132606,Male,28.38264198873094,93.79657248600986,Sedentary,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,69.0194233220665,Female,27.305221609799432,93.16508288079673,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-1,77.2340468571336,Male,37.86716071550458,119.23713378597961,Inactive,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-1,77.37297407238522,Male,37.53019525741817,118.89539810896207,Inactive,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-1,80.56947417682257,Male,32.654476660652364,108.81884690539958,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-0,75.25610636149182,Female,25.518167996922333,91.03952996032673,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-1,61.297029716388934,Male,36.889741507803244,117.96682330484879,Sedentary,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,28.886102356793856,Female,24.41616793418721,82.10913666737032,Active,No,No,No,No,No,Occasionally,No,No,No,No,No,No,No,Yes,No,No,Yes
-1,22.38469719562869,Male,17.818693893413997,69.96764412085929,Very Active,No,No,Yes,No,No,Occasionally,No,No,No,No,No,No,Yes,No,,No,No
-0,28.055443695003415,Female,22.06057570165505,74.58157837643387,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,30.098215161205506,Male,22.9816698378611,80.53570790081659,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,46.10237725874794,Male,26.517575906820216,87.46389504724256,Moderate,No,No,Occasionally,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
-0,69.19376403387675,Male,29.274481316733414,99.14390983136313,Light Activity,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,27.410048566639794,Female,23.096812827626607,80.2111724817057,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,35.31587255808447,Female,23.68383407802955,78.60703600030325,Active,No,No,No,No,No,No,No,No,No,No,No,No,Occasionally,Yes,No,No,No
-1,59.283306151589635,Male,30.12560628583822,98.94754591728429,Sedentary,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,76.39885169721465,Male,37.249313077058176,115.64431335098693,Inactive,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-0,71.65351346279765,Female,25.879992356197512,91.69101610854554,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-0,39.2809373412143,Female,21.938803151977922,81.60106622629388,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
-1,64.77517777824193,Male,33.65646321080027,109.22875800827666,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-1,68.95024245493111,Male,35.45981497762167,113.48342984448739,Light Activity,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,30.12847397543087,Female,23.673740619827427,80.26990775649026,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,84.87007033562283,Male,31.20422558947783,104.46177773561057,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-0,30.663252290467288,Female,23.490766272255684,81.73002906450836,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,63.179296640868415,Male,33.712428223462055,109.97402658600534,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-1,79.15940653288484,Male,29.790644416667373,99.40307808377459,Inactive,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,38.83391043628102,Male,29.05608207400177,96.05554978660386,Active,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-1,35.769530338834194,Female,26.610530245827167,89.2054645065826,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-1,46.32139615171695,Male,26.48458138187361,88.60416260604384,Moderate,No,No,Occasionally,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
-1,68.81933468207863,Male,29.264521362074888,100.34062812334209,Light Activity,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,82.17193901717778,Male,30.412350758398254,100.93150624815463,Inactive,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,56.31595128147996,Male,31.18542587531659,101.68557940645124,Sedentary,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,69.18046962156974,Female,32.185033563352505,103.90676268803374,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-0,36.778907441889295,Female,20.35688864234244,75.24925476886864,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
-1,51.04070355217201,Female,26.725228767482655,90.67731369102934,Moderate,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
-0,20.651840058157347,Female,19.696291038586057,68.83903770741603,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,24.770008182952445,Female,22.512715589789796,78.25947148585604,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,68.20012506112289,Female,32.41144034759231,104.28535007612687,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-0,34.66496061132085,Female,21.90663252084203,78.11001961870048,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
-0,26.823380614631642,Female,22.776898550782562,79.39225119171567,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,85.51556116238285,Male,31.019013949965327,103.78855120188184,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-1,83.09045905895137,Male,30.31705396148617,101.1640750762346,Inactive,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,78.48197680578204,Male,37.759287900038956,120.0,Inactive,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-0,40.2624504782507,Female,26.78111658887648,90.69690073926992,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
-1,53.672063913835636,Male,30.239087968622233,101.68837619046826,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,66.9699134492334,Female,32.262200489562716,105.42720040136976,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-1,65.6463029493505,Male,33.66263931425364,109.6721986907037,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-1,34.36499560972524,Female,21.266652450805957,74.81488986771738,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,53.21101837681191,Male,35.11422003999984,112.21655571462126,Inactive,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,76.80088651189878,Male,37.566155239033606,118.10992371915233,Inactive,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-0,44.957722197529236,Female,24.166638858186833,84.7139876569921,Moderate,Occasionally,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
-0,67.01745592387992,Female,32.01186856328129,103.9130638774161,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-0,30.20890013356591,Female,23.678827967597336,82.48837730137413,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,64.82847843087633,Male,33.461850192608914,109.25567787789558,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-0,15.51698993329161,Female,17.2,60.0,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,63.01206820667096,Male,33.17532543723023,108.59666742637474,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-1,37.90155606747641,Male,28.77343115890312,95.67547907322425,Active,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-1,46.22772582274088,Male,36.807180585067094,113.04979718002969,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,83.92035770984,Male,31.113890824560727,104.79836675710897,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-1,36.52300278060376,Female,25.888321064971265,88.6118339562393,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-1,37.93645201298343,Male,28.813076516117896,95.66135627248568,Active,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-1,31.7425395856177,Male,22.78688469347644,80.9081930823451,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,20.72740398563274,Female,19.844020423153218,66.90873003803945,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,39.840374702445274,Female,26.782556395244246,91.10694916512998,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
-1,69.47001022181172,Male,34.636204025033074,113.94258298137093,Light Activity,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,56.5743777001632,Male,31.24944814175999,101.36099235449899,Sedentary,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,46.57690469602978,Male,27.810863442221684,89.63044374901375,Moderate,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
-1,84.75230776007295,Male,30.29862708971936,100.95939160738027,Inactive,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,67.32702029112264,Female,32.362392242754794,103.5261296070138,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-0,68.01997763149238,Female,27.384326335101242,93.6751802227525,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-0,72.40972923968883,Female,25.221990021993115,92.44226013543869,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-1,49.32352986413738,Female,30.564466133440842,100.11887439293568,Moderate,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-1,46.49289647066328,Male,27.063108451206624,88.53948809373269,Moderate,No,No,Occasionally,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
-1,53.806864299749684,Male,33.123302299752076,107.03195953925085,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,81.81689313987881,Male,30.479216977970967,101.0252971334184,Inactive,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,45.10856993316883,Male,36.26799054045287,112.53815825561357,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,23.240618169549172,Female,22.447787577847503,77.3975356853301,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,38.00631588317303,Female,26.223495543566496,89.29241877083814,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-1,81.61339541151904,Male,32.558861835105375,108.34649825656948,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-0,56.49523232047726,Female,24.172635584933253,89.36379367616642,Moderate,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes
-0,24.633942426611704,Female,22.64349404719001,78.59553491692424,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,41.32817076602075,Male,25.42403203975459,86.27837701683602,Moderate,No,No,No,No,No,Occasionally,No,No,No,No,No,No,Yes,No,No,No,Yes
-1,64.00350122702355,Male,33.55283111577447,110.32327433526069,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-1,63.65932639823003,Male,33.51171518932487,109.87461551793767,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-1,46.86846506709466,Male,27.13162004510489,87.48117868126656,Moderate,No,No,Occasionally,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
-0,64.01972891393171,Male,32.39165609656243,108.93332411921683,Sedentary,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,48.84213957006984,Female,28.17584430805677,92.80516148863535,Moderate,No,Yes,Occasionally,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes
-1,62.07302319281798,Male,36.983297043842974,118.30553063832681,Sedentary,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,45.1279279275431,Male,26.230038717583213,87.88365779233037,Moderate,No,No,Occasionally,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
-0,56.77736938829413,Female,24.235736152546774,88.49768434335029,Moderate,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes
-0,54.86547472347711,Female,29.936929930948654,99.06163021633941,Light Activity,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes
-0,15.0,Female,18.090412856632216,60.70979263097967,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,50.56090222768988,Female,30.78007289970121,102.72425172001643,Sedentary,Yes,Yes,Occasionally,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,,Yes,Yes
-1,57.72438886940791,Male,34.378303657278785,110.72032778630354,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,28.747659326683138,Female,24.732465172454773,81.28443694672744,Active,No,No,No,No,No,Occasionally,No,No,No,No,No,No,No,Yes,No,No,Yes
-0,65.92830854304326,Female,27.8167461618292,95.12533630008393,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-0,50.998925639255866,Female,26.349377042681095,89.86852552384208,Moderate,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
-1,49.704744756665285,Male,27.670591501167344,92.95204697524817,Sedentary,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,29.277472494004726,Female,19.252539502452493,72.60917774135814,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Occasionally,Yes
-0,29.175780342034876,Female,19.59604735266531,72.0102402707423,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Occasionally,Yes
-1,40.17292702893604,Male,25.629053609011535,86.48927436017775,Moderate,No,No,No,No,No,Occasionally,No,No,No,No,No,No,Yes,No,No,No,Yes
-1,27.521990762201266,Male,21.199282633364895,78.78810490909792,Very Active,No,No,Occasionally,Yes,No,No,No,No,No,No,No,No,Yes,Yes,,No,Occasionally
-0,37.46404427921428,Female,23.447294115707443,79.63142421495519,Active,No,No,No,No,No,No,No,No,No,No,No,No,Occasionally,Yes,No,No,No
-1,43.870679268312756,Male,28.813074205514056,96.46295394730538,Moderate,Yes,Yes,Occasionally,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,,Yes,Yes,Yes
-0,17.7128793473847,Female,17.93346329456785,63.25398806181652,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,35.55015523742424,Female,26.148415980434336,89.38614248631659,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-1,64.48335714586895,Male,33.5513622724959,110.89712431628269,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-0,31.566855873883426,Female,23.907657274660725,80.80023892143672,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,57.33906510542318,Male,28.408620768083033,97.42119720301703,Sedentary,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,,Yes,Yes
-1,61.7807094395138,Male,32.9405397364381,106.00227596685207,Sedentary,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,21.742665468295904,Female,20.96639191870083,70.5306748241712,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,52.105632325297094,Male,28.83478759492603,90.73187538865345,Moderate,No,No,Occasionally,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
-1,57.862866870209615,Male,33.872502787612035,111.98921627604635,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,49.194998392323654,Female,31.117995047232885,98.36987947856537,Moderate,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-0,38.359469390076775,Female,24.41074465562367,83.0283850729356,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,61.919588309369864,Male,31.779684061500177,105.82266486431563,Sedentary,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,,Yes,Yes
-0,68.9560714263351,Female,32.00602036133112,103.15512160548222,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-1,58.275340659469684,Male,30.12721490197019,98.68691528285326,Sedentary,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,52.666742164341876,Male,34.914058779389386,111.70291821336032,Inactive,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,22.024983612834315,Male,17.832636334317332,70.3149392765951,Very Active,No,No,Yes,No,No,Occasionally,No,No,No,No,No,No,Yes,No,,No,No
-0,74.52779292094831,Female,25.583831286664633,91.81063854229595,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-0,48.696943258969654,Female,30.509738285956026,99.24217875785153,Moderate,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-0,18.00931381433998,Female,18.76596262969886,66.49360671328257,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-0,68.7310250399824,Female,32.36252997218178,105.8351380836511,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
-1,31.370345825450006,Male,23.469003874366837,81.3828159208346,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,77.45435479738096,Male,37.796638404956504,120.0,Inactive,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-1,35.9187563565494,Female,26.208648348740898,87.99789626363979,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-0,19.856213552669917,Female,18.503036764723454,62.67743183077027,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,46.653736699616736,Male,26.701661136744093,88.83396559827264,Moderate,No,No,Occasionally,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
-1,47.02674436748555,Female,31.57900730697008,106.7187806450976,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,,Yes,Yes
-0,71.68448773552791,Female,22.784070381663003,83.7525545442345,Light Activity,No,No,No,No,No,Yes,No,Sometimes,No,No,No,Yes,No,Yes,No,Yes,Yes
-1,46.09368360363629,Male,37.06430070482362,116.59608521459367,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,59.34963557864379,Male,34.11442969363913,112.4327825934115,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-0,16.698770698644218,Female,18.663043218116822,63.896899484670236,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,56.0141491572429,Male,31.379225622842252,102.50066242735241,Sedentary,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,21.171349143635524,Male,17.66049152874327,68.88061657136596,Very Active,No,No,Yes,No,No,Occasionally,No,No,No,No,No,No,Yes,No,,No,No
-1,49.812914018853256,Male,27.41974441143117,90.17168897676987,Moderate,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
-1,31.757774749677257,Male,33.51771182225728,106.91067186462598,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,,Yes,Yes,Yes
-1,30.070187449446934,Male,23.040330994402087,80.70453354130345,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,53.03795502494414,Female,26.589356837066084,88.2696701470902,Moderate,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
-0,37.30610466762515,Female,23.3251325706781,80.55765231213961,Active,No,No,No,No,No,No,No,No,No,No,No,No,Occasionally,Yes,No,No,No
-0,24.778455805605493,Female,22.21671383383473,75.77563664985387,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
-1,49.478848367475344,Male,28.72417860630821,93.75025237824137,Sedentary,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,51.86005775333893,Male,28.27537098553941,92.47992362106669,Moderate,No,No,Occasionally,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
-1,56.92236825186663,Male,30.843182202454596,102.29050169956449,Sedentary,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
-1,35.417880967420714,Female,26.217689534588263,88.96936436902625,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
-1,28.256437739060342,Female,24.3159042029249,81.33627714715661,Active,No,No,No,No,No,Occasionally,No,No,No,No,No,No,No,Yes,No,No,Yes
-1,73.37725599281927,Male,34.54227879625725,115.7572081817074,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+0,48,Female,24.5,88,Moderate,No,No,No,No,No,Occasionally,No,No,No,No,No,No,No,No,No,No,Yes
+1,51,Male,30.2,102,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,39,Female,22.1,82,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+1,58,Male,28.7,98,Sedentary,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,N/A,Yes,Yes
+0,42,Female,25.4,87,Moderate,No,No,Occasionally,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+1,63,Male,32.1,105,Sedentary,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes
+0,35,Female,21.8,78,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+1,50,Male,27.5,93,Sedentary,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,45,Female,24.2,85,Moderate,Occasionally,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+1,56,Male,27.8,95,Sedentary,Yes,Yes,Occasionally,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,N/A,Yes,No
+0,38,Female,20.5,75,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+1,41,Female,34.2,77,Moderate,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,N/A,Yes,No,No
+0,54,Male,24.8,94,Sedentary,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,N/A,Yes,Yes,Yes
+1,44,Female,29.8,99,Moderate,Yes,No,Yes,No,Sometimes,Yes,No,Yes,No,No,No,Yes,Yes,N/A,Yes,Yes,Yes
+1,60,Male,26.3,89,Active,No,No,No,No,No,Occasionally,No,No,No,No,No,No,No,No,No,Yes,Yes
+1,37,Female,23.4,85,Sedentary,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes
+1,52,Male,28.1,92,Moderate,No,No,Occasionally,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+1,47,Female,31.5,108,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,N/A,Yes,Yes
+1,33,Male,22.7,80,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+1,59,Female,35.1,115,Sedentary,Yes,Yes,Yes,Yes,Occasionally,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes
+1,40,Male,25.9,86,Moderate,No,No,No,No,No,Occasionally,No,No,No,No,No,No,Yes,No,No,No,Yes
+1,49,Female,30.4,103,Sedentary,Yes,Yes,Occasionally,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,N/A,Yes,Yes
+1,36,Male,21.2,77,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+1,22,Male,17.8,70,Very Active,No,No,Yes,No,No,Occasionally,No,No,No,No,No,No,Yes,No,N/A,No,No
+0,70,Female,23.1,84,Light Activity,No,No,No,No,No,Yes,No,Sometimes,No,No,No,Yes,No,Yes,No,Yes,Yes
+1,65,Male,38.5,120,Inactive,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes
+0,30,Female,19.5,72,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Occasionally,Yes
+1,43,Male,28.9,97,Moderate,Yes,Yes,Occasionally,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,N/A,Yes,Yes,Yes
+0,55,Female,31.2,101,Light Activity,No,No,No,No,No,Occasionally,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes
+1,28,Male,21.1,78,Very Active,No,No,Occasionally,Yes,No,No,No,No,No,No,No,No,Yes,Yes,N/A,No,Occasionally
+0,68,Female,20.8,80,Light Activity,No,No,No,No,No,Yes,Occasionally,Sometimes,No,No,No,Yes,No,Yes,No,Yes,Yes
+1,32,Male,33.7,107,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes
+0,57,Female,24.1,89,Moderate,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes
+0,49,Female,28.5,96,Moderate,Occasionally,No,No,No,No,Occasionally,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+1,62,Male,32.8,108,Sedentary,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,46,Female,28.4,94,Moderate,No,Yes,Occasionally,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes
+1,53,Male,35.1,112,Inactive,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,29,Female,24.7,82,Active,No,No,No,No,No,Occasionally,No,No,No,No,No,No,No,Yes,No,No,Yes
+1,71,Male,29.5,100,Light Activity,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,34,Female,21.2,74,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,66,Male,27.9,95,Moderate,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,25,Female,22.5,78,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,74,Male,34.7,115,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+0,27,Female,23.1,80,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,61,Male,37.2,118,Sedentary,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,49,Female,30.8,99,Moderate,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+0,31,Female,23.8,81,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,64,Male,33.5,110,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+0,23,Female,20.7,70,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,75,Male,30.1,102,Light Activity,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,52,Female,26.4,90,Moderate,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+1,38,Male,28.9,96,Active,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+0,67,Female,27.2,93,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
+1,45,Male,36.7,114,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,26,Female,22.1,76,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,72,Male,31.9,106,Light Activity,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,41,Female,24.6,84,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,58,Male,34.2,111,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,20,Female,19.8,68,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,77,Male,37.5,119,Inactive,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+0,36,Female,26.2,89,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+1,63,Male,30.8,103,Sedentary,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,24,Female,22.7,77,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,69,Male,35.1,113,Light Activity,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,43,Female,28.5,96,Moderate,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+1,55,Male,31.7,105,Sedentary,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,19,Female,18.9,65,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,81,Male,32.6,109,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+0,28,Female,21.8,75,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,76,Male,37.2,117,Inactive,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+0,33,Female,25.3,86,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+1,50,Male,29.8,98,Moderate,No,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+0,60,Female,31.4,102,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes
+1,42,Male,26.3,89,Active,No,No,Occasionally,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+0,21,Female,19.5,67,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,79,Male,34.2,112,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+0,47,Female,29.1,97,Moderate,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+1,35,Male,25.7,86,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+0,65,Female,27.8,95,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
+1,54,Male,32.9,107,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,17,Female,18.2,63,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,83,Male,30.4,101,Inactive,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,40,Female,26.7,91,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+1,48,Male,27.5,90,Moderate,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+0,56,Female,30.2,99,Light Activity,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes
+1,31,Male,23.1,81,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+0,39,Female,24.5,83,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,70,Male,33.7,110,Light Activity,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,16,Female,17.8,62,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,85,Male,31.2,104,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+0,44,Female,27.6,94,Moderate,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+1,30,Male,21.9,79,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+0,73,Female,25.7,92,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
+1,59,Male,30.1,100,Sedentary,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,18,Female,19.3,66,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,80,Male,29.5,99,Inactive,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,37,Female,23.8,80,Active,No,No,No,No,No,No,No,No,No,No,No,No,Occasionally,Yes,No,No,No
+1,46,Male,26.7,88,Moderate,No,No,Occasionally,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+0,68,Female,32.1,104,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
+1,51,Male,28.6,94,Sedentary,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,15,Female,17.2,60,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,87,Male,33.5,108,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+0,32,Female,22.4,77,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,57,Male,31.3,102,Sedentary,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,21,Female,19.5,67,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,79,Male,34.2,112,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+0,47,Female,29.1,97,Moderate,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+1,35,Male,25.7,86,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+0,65,Female,27.8,95,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
+1,54,Male,32.9,107,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,17,Female,18.2,63,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,83,Male,30.4,101,Inactive,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,40,Female,26.7,91,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+1,48,Male,27.5,90,Moderate,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+0,56,Female,30.2,99,Light Activity,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes
+1,31,Male,23.1,81,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+0,39,Female,24.5,83,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,70,Male,33.7,110,Light Activity,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,16,Female,17.8,62,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,85,Male,31.2,104,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+0,44,Female,27.6,94,Moderate,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+1,30,Male,21.9,79,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+0,73,Female,25.7,92,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
+1,59,Male,30.1,100,Sedentary,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,18,Female,19.3,66,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,80,Male,29.5,99,Inactive,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,37,Female,23.8,80,Active,No,No,No,No,No,No,No,No,No,No,No,No,Occasionally,Yes,No,No,No
+1,46,Male,26.7,88,Moderate,No,No,Occasionally,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+0,68,Female,32.1,104,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
+1,51,Male,28.6,94,Sedentary,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,15,Female,17.2,60,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,87,Male,33.5,108,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+0,32,Female,22.4,77,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,57,Male,31.3,102,Sedentary,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+1,48,Female,28.4,94,Moderate,No,Yes,Occasionally,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes
+0,62,Male,32.8,108,Sedentary,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+1,29,Female,24.7,82,Active,No,No,No,No,No,Occasionally,No,No,No,No,No,No,No,Yes,No,No,Yes
+1,53,Male,35.1,112,Inactive,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,71,Male,29.5,100,Light Activity,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+1,34,Female,21.2,74,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,66,Male,27.9,95,Moderate,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,25,Female,22.5,78,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,74,Female,34.7,115,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+0,27,Female,23.1,80,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,61,Male,37.2,118,Sedentary,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+1,49,Female,30.8,99,Moderate,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+0,31,Female,23.8,81,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,64,Male,33.5,110,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+0,23,Female,20.7,70,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,75,Male,30.1,102,Light Activity,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+1,52,Female,26.4,90,Moderate,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+1,38,Male,28.9,96,Active,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+0,67,Female,27.2,93,Light Activity,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
+1,45,Male,36.7,114,Inactive,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,26,Female,22.1,76,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,72,Male,31.9,106,Light Activity,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,41,Female,24.6,84,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,58,Male,34.2,111,Sedentary,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,20,Female,19.8,68,Very Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,77,Male,37.5,119,Inactive,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+1,36,Female,26.2,89,Active,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+1,63,Male,30.8,103,Sedentary,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+0,24,Female,22.7,77,Active,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,69,Male,35.1,113,Light Activity,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+1,43,Female,28.5,96,Moderate,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
